@@ -7,6 +7,7 @@
  var str1=2,str2=3;
  function fun1(){
  	return s.str1+s.str2;
+	//第四次
  };
  (function($,window){
  	
